@@ -1,8 +1,25 @@
-# React + Vite
+# FURRY TRIMZ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Furry Trimz is a project born out of a passion for pet care. This application is a single-page-application designed to allow users to book grooming services at a professional pet salon. The project was built using React and Tailwind, providing both functionality and aesthetic design.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Yarn Vite React Tailwind
+
+## Demo
+
+LIVE: [FURRY TRIMZ](https://hrs-furry-trimz.netlify.app/)
+
+## Screenshot
+
+<img src="/src/assets/img/hrs-furry-trimz.netlify.app_-full.png" width="800">
+
+## Author
+
+### Hubert Śleszyński
+
+Portfolio: https://hrs-dev.netlify.app/
+
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+
+Github: https://github.com/HubertSleszynski
